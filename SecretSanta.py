@@ -59,7 +59,7 @@ def main ():
             counter = 0   
     print()
     print("*******************")
-    print("Happy Holidays!")
+    print("Happy Holidays 2020")
 
     #pause for input so screen doesn't flash by
     input("")
