@@ -5,7 +5,7 @@ def main ():
     print("*******************")
 
     #declare variables
-    import random
+    #import random
     names = ["Kate", "Joe", "Keith", "Audrey"]
     counter = 0
     nameOne = 0
